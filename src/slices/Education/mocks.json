@@ -1,0 +1,58 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "unit",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "note",
+							"type": "Text"
+						}
+					],
+					[
+						"time_peroid",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "control",
+							"type": "Text"
+						}
+					],
+					[
+						"institution",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "magic",
+							"type": "Text"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Sunt eu Lorem anim labore cupidatat tempor mollit voluptate mollit labore duis laboris. Esse veniam ipsum ut duis consequat eiusmod ex excepteur."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]
